@@ -93,7 +93,7 @@ for objeto in objetos:
     filenames.append(objeto.text.strip('.zip'))
 
 # Diretório local
-local_directory = "C:\\Users\\User\\Desktop\\workspace\\ETL_RF\\dados"
+local_directory = "C:\\Users\\User\\Desktop\\workspace\\WSB_RF\\dados"
 
 # Chama a função para baixar e armazenar os arquivos localmente
 download_files_locally(files, filenames, local_directory)
