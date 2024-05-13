@@ -1,5 +1,6 @@
 # Projeto de Web Scraping dos dados do site da Receita Federal do Brasil
-Este projeto tem como objetivo extrair dados disponíveis no site da Receita Federal do Brasil (RFB), realizar transformações necessárias e carregar os dados em um ambiente local para análise posterior.
+Este projeto tem como objetivo extrair dados sobre os CNPJ disponíveis no site da Receita Federal do Brasil (RFB), realizar transformações necessárias e carregar os dados em um ambiente local para análise posterior.
+
 # Funcionalidades
 1. Extração de Dados
    
